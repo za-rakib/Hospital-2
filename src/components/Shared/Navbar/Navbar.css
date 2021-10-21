@@ -1,0 +1,30 @@
+ .navbar-main{
+     background-color: #6c67b7;  
+ }
+ .navbar-toggler-icon {
+ font-size: 50px;
+ }
+ .navbar-main a{
+    font-size: 25px;
+    color: white;
+    font-weight:600;
+}
+.navbar-main a:hover{
+    color: #0fc4e4;
+    font-weight:600;
+}
+.name h2{
+    font-weight: 900;
+    color: #ffffff;
+    font-size:35px;
+    /* letter-spacing: -5px; */
+    word-spacing: 5px;
+}
+.name span{
+    color:#12d0e3;
+}
+.nav-img{
+    height: 50px;
+    width: 50px;
+    border-radius:50%;
+}
